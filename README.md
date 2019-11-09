@@ -1,10 +1,6 @@
-# Coding Notes
+# Dataquest_R_Projects
 ## Laura Liu
-This is the summary of all my coding learning resources and notes.\
-Including:
-* DataQuest: R, Python
-* CAPP_course: Python
-* FreeCodeCamp: HTML, JavaScript
-\
-\
-It's really cool! Happy coding!!!
+This repository contains all of my R codes for Dataquest projects.\
+Dataquest is a coding learning website.\
+All the projects are designed by Dataquest and the skeleton for the problems are provided.\
+I finished all the coding part by myself.
